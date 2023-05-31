@@ -91,7 +91,7 @@ const Signup = () => {
         </div>
 
         <div className="flex justify-center items-center flex-col w-full bg-white p-4 border border-gray-primary">
-          <p className="text-sm">
+          <p className="text-md">
             Have an account?
             <Link to="/login" className="font-semibold text-blue-500 ml-1">
               Login
